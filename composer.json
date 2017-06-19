@@ -2,20 +2,7 @@
   "name": "hzted123/starter-framework-lcb",
   "type": "framework",
   "description": "A Temp Someline Starter Framework.",
-  "keywords": [
-    "someline",
-    "starter-framework"
-  ],
-  "homepage": "https://github.com/someline/starter-framework",
   "license": "MIT",
-  "authors": [
-    {
-      "name": "Libern Lin",
-      "email": "libernlin@gmail.com",
-      "homepage": "https://www.someline.com/",
-      "role": "Developer"
-    }
-  ],
   "require": {
     "php": ">=5.6.4",
     "ext-pdo_sqlite": "*",
